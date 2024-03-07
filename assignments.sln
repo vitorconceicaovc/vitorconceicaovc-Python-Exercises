@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "multiplesnumbers", "multiplesnumbers\multiplesnumbers.pyproj", "{F5A7A921-C347-482E-9D81-941CB775FDF4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dice", "dice\dice.pyproj", "{23E9F105-7B56-44A5-AAB1-35081A9215D7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "phonebook", "phonebook\phonebook.pyproj", "{6722DC45-C84C-4746-8A94-FCB5C099C967}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "phonebookClass", "phonebookClass\phonebookClass.pyproj", "{9580B211-B3A9-424C-B535-A54BB8EDEAA9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "weatherData", "weatherData\weatherData.pyproj", "{1D7ED85C-5895-40A3-9901-B964E06D70CB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonAndExelFile", "PythonAndExelFile\PythonAndExelFile.pyproj", "{9D646044-48CD-430E-9094-33CA80720417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A7A921-C347-482E-9D81-941CB775FDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A7A921-C347-482E-9D81-941CB775FDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E9F105-7B56-44A5-AAB1-35081A9215D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E9F105-7B56-44A5-AAB1-35081A9215D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6722DC45-C84C-4746-8A94-FCB5C099C967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6722DC45-C84C-4746-8A94-FCB5C099C967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9580B211-B3A9-424C-B535-A54BB8EDEAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9580B211-B3A9-424C-B535-A54BB8EDEAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7ED85C-5895-40A3-9901-B964E06D70CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7ED85C-5895-40A3-9901-B964E06D70CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D646044-48CD-430E-9094-33CA80720417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D646044-48CD-430E-9094-33CA80720417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EF436F8-0F26-4947-8D6D-8DABAD14FD4A}
+	EndGlobalSection
+EndGlobal
